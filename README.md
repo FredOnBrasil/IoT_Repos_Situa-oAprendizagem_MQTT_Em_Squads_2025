@@ -2,7 +2,11 @@
 
 <h2> Squads </h2>
 
-<b> Squad 1: </b> 
+<b> Squad 1: Hardware & Coleta de Dados </b> 
+<b> Squad 2: Publicador WPF (Publisher) </b> 
+<b> Squad 3: Broker & Infraestrutura </b> 
+<b> Squad 4: Aplicação Cliente (Subscriber) </b> 
+<b> Squad 5: Documentação & Testes </b> 
 
 <hr>
 
