@@ -1,28 +1,33 @@
 <h1 align="center"> Smart Factory </h1>
 
+<h3> Equipe de documentação: Luis Barbosa, Maycon Siqueira, Yhan Phillipe </h3>
+<h3> Instrutor: Fred Aguiar </h3>
+
 <hr>
 
-<h3> Instrutor: Fred Aguiar </h3>
+<h2> Introdução </h2>
+
+<hr>
 
 <h2> Squads </h2>
 
-<h3> Squad 1: Hardware & Coleta de Dados </h3> <br>
+<h3> Squad 1: Hardware & Coleta de Dados </h3>
 
 <p align="justify"> Squad composto pelos membros: Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes </p>
 
-<h3> Squad 2: Publicador WPF (Publisher) </h3> <br>
+<h3> Squad 2: Publicador WPF (Publisher) </h3>
 
 <p align="justify"> Squad composto pelos membros: Alice Virgilia, Bruno Maia, Diulie Mileide, Marilene Araujo </p>
 
-<h3> Squad 3: Broker & Infraestrutura </h3> <br>
+<h3> Squad 3: Broker & Infraestrutura </h3>
 
 <p align="justify"> Squad composto pelos membros: Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura </p>
 
-<h3> Squad 4: Aplicação Cliente (Subscriber) </h3> <br>
+<h3> Squad 4: Aplicação Cliente (Subscriber) </h3>
 
 <p align="justify"> Squad composto pelos membros: Erick Silva, Otavio Soares </p>
 
-<h3> Squad 5: Documentação & Testes </h3> <br>
+<h3> Squad 5: Documentação & Testes </h3>
 
 <p align="justify"> Squad composto pelos membros: Luis Barbosa, Maycon Siqueira, Yhan Phillipe </p>
 
