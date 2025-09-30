@@ -1,5 +1,9 @@
 <h1 align="center"> Smart Factory </h1>
 
+<h2> Squads </h2>
+
+<b> Squad 1: </b> 
+
 <hr>
 
 <h2 align="center"> Sensores Utilizados </h2>
