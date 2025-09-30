@@ -1,12 +1,14 @@
 <h1 align="center"> Smart Factory </h1>
 
+<hr>
+
 <h2> Squads </h2>
 
-<b> Squad 1: Hardware & Coleta de Dados </b> 
-<b> Squad 2: Publicador WPF (Publisher) </b> 
-<b> Squad 3: Broker & Infraestrutura </b> 
-<b> Squad 4: Aplicação Cliente (Subscriber) </b> 
-<b> Squad 5: Documentação & Testes </b> 
+<b> Squad 1: Hardware & Coleta de Dados </b> <br>
+<b> Squad 2: Publicador WPF (Publisher) </b> <br>
+<b> Squad 3: Broker & Infraestrutura </b> <br>
+<b> Squad 4: Aplicação Cliente (Subscriber) </b> <br>
+<b> Squad 5: Documentação & Testes </b> <br>
 
 <hr>
 
