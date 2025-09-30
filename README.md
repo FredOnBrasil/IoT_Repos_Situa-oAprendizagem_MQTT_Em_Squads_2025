@@ -4,11 +4,25 @@
 
 <h2> Squads </h2>
 
-<b> Squad 1: Hardware & Coleta de Dados </b> <br>
-<b> Squad 2: Publicador WPF (Publisher) </b> <br>
-<b> Squad 3: Broker & Infraestrutura </b> <br>
-<b> Squad 4: Aplicação Cliente (Subscriber) </b> <br>
-<b> Squad 5: Documentação & Testes </b> <br>
+<h3> Squad 1: Hardware & Coleta de Dados </h3> <br>
+
+<p align="justify"> Squad composto pelos membros: Danilo, Luna, Kaio, Vinicius </p>
+
+<h3> Squad 2: Publicador WPF (Publisher) </h3> <br>
+
+<p align="justify"> Squad composto pelos membros: Alice, Bruno, Diulie Mileide, Marilene Araujo </p>
+
+<h3> Squad 3: Broker & Infraestrutura </h3> <br>
+
+<p align="justify"> Squad composto pelos membros: Lucas Aquino, Miguel, Nicolas, Pedro </p>
+
+<h3> Squad 4: Aplicação Cliente (Subscriber) </h3> <br>
+
+<p align="justify"> Squad composto pelos membros: Erick, Otavio </p>
+
+<h3> Squad 5: Documentação & Testes </h3> <br>
+
+<p align="justify"> Squad composto pelos membros: Luis Ivan, Maycon Siqueira, Yhan </p>
 
 <hr>
 
