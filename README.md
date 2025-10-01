@@ -4,8 +4,7 @@
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
 </p>
 
-<h3> Equipe responsável: <br>
-  Luis Barbosa, Maycon Siqueira, Yhan Phillipe </h3>
+<h3> Equipe responsável: <br> Luis Barbosa, Maycon Siqueira, Yhan Phillipe </h3>
 <h3> Instrutor: Fred Aguiar </h3>
 
 <hr>
@@ -29,7 +28,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 1: Hardware & Coleta de Dados </h2>
 
 <p align="justify"> 
-  Squad composto pelos membros: Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes. <br>
+  Squad composto pelos membros: <b>Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes.</b> <br>
   Este Squad é responsável pela fonte dos dados e sua correta aquisição no nível do hardware.<br>
 </p>
 
@@ -43,7 +42,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 2: Publicador WPF (Publisher) </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Alice Virgilia, Bruno Maia, Diulie Batista, Marilene Araujo. <br>
+  Squad composto pelos membros: <b>Alice Virgilia, Bruno Maia, Diulie Batista, Marilene Araujo.</b> <br>
   Este Squad tem a responsabilidade de receber os dados do Squad 1 e publicá-los no Broker MQTT. <br>
 </p>
 
@@ -55,7 +54,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 3: Broker & Infraestrutura </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura. <br>
+  Squad composto pelos membros: <b>Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura.</b> <br>
   Este Squad é crucial para a conectividade e comunicação de toda a solução, sendo responsável pelo middleware MQTT. <br>
 </p>
 
@@ -68,7 +67,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 4: Aplicação Cliente (Subscriber) </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Erick Silva, Otavio Soares. <br>
+  Squad composto pelos membros: <b>Erick Silva, Otavio Soares.</b> <br>
   Este Squad é responsável pela experiência do usuário (UX) e a visualização dos dados em tempo real. <br>
 </p>
 
@@ -81,7 +80,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 5: Documentação & Testes </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Luis Barbosa, Maycon Siqueira, Yhan Phillipe <br>
+  Squad composto pelos membros: <b>Luis Barbosa, Maycon Siqueira, Yhan Phillipe.</b> <br>
   Esta Squad garante a qualidade, rastreabilidade e manutenibilidade de todo o projeto. <br>
 </p>
 
