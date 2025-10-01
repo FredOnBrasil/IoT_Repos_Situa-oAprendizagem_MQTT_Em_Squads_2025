@@ -4,7 +4,8 @@
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
 </p>
 
-<h3> Equipe de documentação: Luis Barbosa, Maycon Siqueira, Yhan Phillipe </h3>
+<h3> Equipe responsável pela documentação: <br>
+  Luis Barbosa, Maycon Siqueira, Yhan Phillipe </h3>
 <h3> Instrutor: Fred Aguiar </h3>
 
 <hr>
@@ -25,28 +26,38 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h2 align="center"> Squads </h2>
 
-<h3> Squad 1: Hardware & Coleta de Dados </h3>
+<h2> Squad 1: Hardware & Coleta de Dados </h2>
 
-<p align="justify"> Squad composto pelos membros: Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes </p>
+<p align="justify"> 
+  Squad composto pelos membros: Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes
+</p>
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/Squad%201/S1%201.jpg" height="500" width="500"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/Squad%201/S1%202.jpg" height="500" width="500"/> </p>
 
-<h3> Squad 2: Publicador WPF (Publisher) </h3>
+<h2> Squad 2: Publicador WPF (Publisher) </h2>
 
-<p align="justify"> Squad composto pelos membros: Alice Virgilia, Bruno Maia, Diulie Batista, Marilene Araujo </p>
+<p align="justify">
+  Squad composto pelos membros: Alice Virgilia, Bruno Maia, Diulie Batista, Marilene Araujo
+</p>
 
-<h3> Squad 3: Broker & Infraestrutura </h3>
+<h2> Squad 3: Broker & Infraestrutura </h2>
 
-<p align="justify"> Squad composto pelos membros: Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura </p>
+<p align="justify">
+  Squad composto pelos membros: Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura
+</p>
 
-<h3> Squad 4: Aplicação Cliente (Subscriber) </h3>
+<h2> Squad 4: Aplicação Cliente (Subscriber) </h2>
 
-<p align="justify"> Squad composto pelos membros: Erick Silva, Otavio Soares </p>
+<p align="justify">
+  Squad composto pelos membros: Erick Silva, Otavio Soares
+</p>
 
-<h3> Squad 5: Documentação & Testes </h3>
+<h2> Squad 5: Documentação & Testes </h2>
 
-<p align="justify"> Squad composto pelos membros: Luis Barbosa, Maycon Siqueira, Yhan Phillipe </p>
+<p align="justify">
+  Squad composto pelos membros: Luis Barbosa, Maycon Siqueira, Yhan Phillipe
+</p>
 
 <hr>
 
@@ -139,5 +150,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
   </table>
 </div>
 
+<hr>
+
+<h2> Testes </h2>
 
 <hr>
