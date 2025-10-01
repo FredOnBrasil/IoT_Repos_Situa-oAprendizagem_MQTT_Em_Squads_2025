@@ -1,4 +1,4 @@
-<h1 align="center"> Documentação Smart Factory </h1>
+<h1 align="center"> Documentação Smart Factory: Monitoramento Industrial em Tempo Real </h1>
 
 <p align="center"> 
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
