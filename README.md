@@ -44,7 +44,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr style="text-align: center;">
         <td style="text-align: center;"><img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/01%20-%20Arduino.jpg" height="300" width="300" /></td>
         <td style="text-align: center;">❌ No</td>
       </tr>
