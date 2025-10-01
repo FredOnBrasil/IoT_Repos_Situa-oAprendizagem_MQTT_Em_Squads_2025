@@ -24,13 +24,18 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
-<h2 align="center"> Squads </h2>
+<h2 align="center"> Responsabilidades das Squads </h2>
 
 <h2> Squad 1: Hardware & Coleta de Dados </h2>
 
 <p align="justify"> 
-  Squad composto pelos membros: Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes
+  Squad composto pelos membros: Danilo Santos, Luna Beatriz, Kaio Silva, Vinicius Gomes. <br>
+  Este Squad é responsável pela fonte dos dados e sua correta aquisição no nível do hardware.<br>
 </p>
+
+- <b>Integração de Sensores:</b> Selecionar, calibrar e conectar os 5 sensores físicos ao Arduino.
+- <b>Firmware do Arduino:</b> Desenvolver o código (Sketch) para o Arduino que faça a leitura das 5 grandezas de forma contínua e confiável.
+- <b>Comunicação de Saída:</b> Implementar a lógica para formatar os dados e enviá-los de forma serial ou via rede (Wi-Fi/Ethernet) para a próxima camada (o Publicador).
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/Squad%201/S1%201.jpg" height="500" width="500"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/Squad%201/S1%202.jpg" height="500" width="500"/> </p>
@@ -38,26 +43,53 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 2: Publicador WPF (Publisher) </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Alice Virgilia, Bruno Maia, Diulie Batista, Marilene Araujo
+  Squad composto pelos membros: Alice Virgilia, Bruno Maia, Diulie Batista, Marilene Araujo. <br>
+  Este Squad tem a responsabilidade de receber os dados do Squad 1 e publicá-los no Broker MQTT. <br>
 </p>
+
+- <b>Interface de Coleta:</b> Criar a aplicação WPF que faz a leitura dos dados brutos enviados pelo Arduino via serial.
+- <b>Protocolo MQTT:</b> Integrar e configurar uma biblioteca MQTT Client (ex: M2Mqtt, MQTTnet) na aplicação Publicadora.
+- <b>Publicação de Dados:</b> Estruturar os dados lidos em uma mensagem MQTT e publicá-los nos tópicos definidos (Squad 3). Recomenda-se um tópico por grandeza ou um tópico único com payload estruturado (JSON).
+- <b>Tratamento de Erros:</b> Implementar a lógica de reconexão automática ao Broker e o tratamento de falhas na leitura do Arduino.
 
 <h2> Squad 3: Broker & Infraestrutura </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura
+  Squad composto pelos membros: Lucas Aquino, Miguel Duarte, Nicolas Oliveira, Pedro Moura. <br>
+  Este Squad é crucial para a conectividade e comunicação de toda a solução, sendo responsável pelo middleware MQTT. <br>
 </p>
+
+- <b>Instalação e Configuração do Broker:</b> Escolher, instalar e configurar um Broker MQTT (Mosquitto).
+- <b>Gerenciamento de Rede:</b> Garantir que o Broker esteja acessível via rede para o Publicador (Squad 2) e o Cliente (Squad 4). Configuração de firewall e portas.
+- <b>Definição de Tópicos:</b> Estruturar a hierarquia de tópicos MQTT de forma clara (ex: smartfactory/planta_piloto/temperatura, smartfactory/planta_piloto/pressao).
+- <b>Segurança:</b> Implementar segurança básica (se necessário), como autenticação por usuário/senha e/ou certificados (TLS/SSL) para conexão ao Broker.
+- <b>Testes de Infraestrutura:</b> Realizar testes de carga e latência para garantir a estabilidade do Broker.
 
 <h2> Squad 4: Aplicação Cliente (Subscriber) </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Erick Silva, Otavio Soares
+  Squad composto pelos membros: Erick Silva, Otavio Soares. <br>
+  Este Squad é responsável pela experiência do usuário (UX) e a visualização dos dados em tempo real. <br>
 </p>
+
+- <b>Desenvolvimento da Interface WPF:</b> Criar a aplicação desktop WPF com layout e design intuitivos.
+- <b>Assinatura (Subscription):</b> Integrar a biblioteca MQTT Client (a mesma do Squad 2) e configurar a assinatura aos tópicos definidos pelo Squad 3.
+- <b>Processamento de Mensagens:</b> Implementar a lógica para receber e decodificar as mensagens MQTT publicadas.
+- <b>Visualização em Tempo Real:</b> Desenvolver os componentes visuais que exibem as 5 grandezas e atualizam o valor automaticamente ao receber uma nova mensagem.
+- <b>Indicadores de Status:</b> Incluir indicadores visuais para o status da conexão com o Broker (online/offline).
 
 <h2> Squad 5: Documentação & Testes </h2>
 
 <p align="justify">
-  Squad composto pelos membros: Luis Barbosa, Maycon Siqueira, Yhan Phillipe
+  Squad composto pelos membros: Luis Barbosa, Maycon Siqueira, Yhan Phillipe <br>
+  Esta Squad garante a qualidade, rastreabilidade e manutenibilidade de todo o projeto. <br>
 </p>
+
+- <b>Plano de Testes:</b> Elaborar e executar Testes de Integração (fim a fim: Arduino → WPF) e Testes Unitários (código do Arduino, parsing de JSON, etc.).
+- <b>Documentação Técnica:</b> Compilar toda a documentação gerada pelos outros Squads (diagramas, código-fonte, configurações do Broker) em um repositório centralizado.
+- <b>Documentação do Usuário:</b> Criar um Manual do Usuário para a Aplicação Cliente (WPF) e um guia de instalação (Deployment).
+- <b>Gerenciamento de Versões:</b> Configurar o repositório de código-fonte (Git) e definir a política de branching e releases.
+- <b>Gerenciamento de Requisitos:</b> Manter a lista de requisitos atualizada e garantir que todos os 5 requisitos do cliente foram atendidos e verificados.
 
 <hr>
 
