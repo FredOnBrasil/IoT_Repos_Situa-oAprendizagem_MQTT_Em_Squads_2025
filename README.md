@@ -1,6 +1,8 @@
 <h1 align="center"> Smart Factory </h1>
 
-<p align="center"> <img src="" height="500" width="500"/> </p>
+<p align="center"> 
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
+</p>
 
 <h3> Equipe de documentação: Luis Barbosa, Maycon Siqueira, Yhan Phillipe </h3>
 <h3> Instrutor: Fred Aguiar </h3>
