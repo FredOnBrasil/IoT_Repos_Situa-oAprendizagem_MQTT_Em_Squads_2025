@@ -230,6 +230,22 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
-<h2> Testes </h2>
+<h2 align="center"> Fases de Testes e Planejamentos dos Squads </h2>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0009.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0010.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0011.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0012.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0015.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0016.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0017.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0018.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0019.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0003.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0004.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0005.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0006.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0007.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0008.jpg" height="500" width="500"/> </p>
 
 <hr>
