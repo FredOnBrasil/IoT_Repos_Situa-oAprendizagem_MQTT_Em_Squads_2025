@@ -91,7 +91,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Testes de Infraestrutura:</b> Realizar testes de carga e latência para garantir a estabilidade do Broker.
 
 <b> Dificuldades </b>
-- Montagem de portas para a criação dos usuários e senhas, usadas para especificação dos tópicos abordados 
+- Montagem de portas para a criação dos usuários e senhas, usadas para especificação dos tópicos abordados
+
+[Documentação Broker](https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Documenta%C3%A7%C3%A3o%20Broker.txt)
 
 <h3 align="center"> Comunicação MQTT </h3>
 
