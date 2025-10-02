@@ -50,9 +50,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Código Arduino </h3>
 
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%203.jpg"/> </p>
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%204.jpg"/> </p>
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%205.jpg"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%203.jpg" width="888"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%204.jpg" width="888"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%205.jpg" width="888"/> </p>
 
 
 
