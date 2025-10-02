@@ -36,8 +36,12 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Firmware do Arduino:</b> Desenvolver o código (Sketch) para o Arduino que faça a leitura das 5 grandezas de forma contínua e confiável.
 - <b>Comunicação de Saída:</b> Implementar a lógica para formatar os dados e enviá-los de forma serial ou via rede (Wi-Fi/Ethernet) para a próxima camada (o Publicador).
 
+<b> Pontos Importantes </b>
+- As ligações positivo e negativo (5V e GND) identificadas em vermelho e preto para padronização
+
 <b> Dificuldades </b>
-- O sensor de temperatura
+- Montagem e ligação dos sensores a protoboard/arduino sendo posição correta de conexão do sensor
+- 
 
 <h3 align="center"> Montagem Protótipo </h3>
 
