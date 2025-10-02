@@ -1,0 +1,25 @@
+Após baixarmos o mosquitto, iniciamos sua execução no cmd, mas antes foi necessário criar novas regras de entrada e de saída para garantimos que o firewall não impedirá a conexão com um subscriber ou com um Publisher. 
+Após isso, modificamos duas linhas de configuração no arquivo "mosquitto.conf" para garantir a conexão de maquinas externas. 
+As duas linhas alteradas estão abaixo:
+
+#allow_anonymous false --------------------> allow_anonymous true
+#listener ---------------------------------> listener 1883 0.0.0.0
+
+Após isso seguimos para a criar de um tópico para ser possível publicar uma mensagem para quem estivesse inscrito nesse determinado tópico, para isso utilizamos o código: 
+
+Para publicar:
+
+.\mosquitto_pub -h 10.10.0.54 -t "smartfactory/umidade" -m "Teste de Conexao MQTT OK!"
+
+ Para se inscrever:
+
+.\mosquitto_sub -h 10.10.0.54 -t "smartfactory/umidade"
+
+(OBS: "smartfactory/umidade" foi um dos cinco tópicos criados para realização desse exercício.)
+
+Utilizamos a rede publica do senai para criar uma rede local que corresponde ao ip:
+
+10.10.0.54
+
+Isso permite que varias maquinas diferentes se conecte ao broker.
+
