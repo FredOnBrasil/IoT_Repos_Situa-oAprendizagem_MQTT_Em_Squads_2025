@@ -36,8 +36,16 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Firmware do Arduino:</b> Desenvolver o código (Sketch) para o Arduino que faça a leitura das 5 grandezas de forma contínua e confiável.
 - <b>Comunicação de Saída:</b> Implementar a lógica para formatar os dados e enviá-los de forma serial ou via rede (Wi-Fi/Ethernet) para a próxima camada (o Publicador).
 
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/Squad%201/S1%201.jpg" height="500" width="500"/> </p>
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/Squad%201/S1%202.jpg" height="500" width="500"/> </p>
+<h3 align="center"> Montagem Protótipo </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%201.jpg" height="500" width="500"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%202.jpg" height="500" width="500"/> </p>
+
+<h3 align="center"> Código Arduino </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%203.jpg"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%204.jpg"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%205.jpg"/> </p>
 
 <h2> Squad 2: Publicador WPF (Publisher) </h2>
 
