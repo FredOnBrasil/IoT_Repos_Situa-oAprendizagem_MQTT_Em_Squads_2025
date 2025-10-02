@@ -72,6 +72,11 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Segurança:</b> Implementar segurança básica (se necessário), como autenticação por usuário/senha e/ou certificados (TLS/SSL) para conexão ao Broker.
 - <b>Testes de Infraestrutura:</b> Realizar testes de carga e latência para garantir a estabilidade do Broker.
 
+<h3 align="center"> Comunicação MQTT </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%203/S3%201.jpg"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%203/S3%202.jpg"/> </p>
+
 <h2> Squad 4: Aplicação Cliente (Subscriber) </h2>
 
 <p align="justify">
