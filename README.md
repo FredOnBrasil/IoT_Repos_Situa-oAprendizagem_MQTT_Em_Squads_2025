@@ -117,6 +117,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%203.jpg"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%204.jpg"/> </p>
 
+<b> Dificuldades </b>
+- Recebimento dos dados para andamento do projeto.
+
 
 
 <h2> Squad 5: Documentação & Testes </h2>
@@ -134,6 +137,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <b> Dificuldades </b>
 - Organização das informações coletadas
+- Planejamento no recebimento das informações
 
 <hr>
 
@@ -249,3 +253,11 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251002-WA0008.jpg" height="500" width="500"/> </p>
 
 <hr>
+
+<h2 align="center"> Conclusões dos Squads </h2>
+
+<h3 align="center"> Squad 1 </h3>
+<h3 align="center"> Squad 2 </h3>
+<h3 align="center"> Squad 3 </h3>
+<h3 align="center"> Squad 4 </h3>
+<h3 align="center"> Squad 5 </h3>
