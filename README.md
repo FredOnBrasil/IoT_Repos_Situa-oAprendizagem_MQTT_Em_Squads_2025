@@ -70,7 +70,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 
 <b> Dificuldades </b>
-- importação de plugins e bibliotecas para fazer o código em outros computadores
+- Importação de plugins e bibliotecas para fazer o código em outros computadores
 
 
 
@@ -88,7 +88,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Testes de Infraestrutura:</b> Realizar testes de carga e latência para garantir a estabilidade do Broker.
 
 <b> Dificuldades </b>
-- montagem de portas para a criação dos usuários e senhas, usadas para especificação dos tópicos abordados 
+- Montagem de portas para a criação dos usuários e senhas, usadas para especificação dos tópicos abordados 
 
 <h3 align="center"> Comunicação MQTT </h3>
 
@@ -131,6 +131,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Documentação do Usuário:</b> Criar um Manual do Usuário para a Aplicação Cliente (WPF) e um guia de instalação (Deployment).
 - <b>Gerenciamento de Versões:</b> Configurar o repositório de código-fonte (Git) e definir a política de branching e releases.
 - <b>Gerenciamento de Requisitos:</b> Manter a lista de requisitos atualizada e garantir que todos os 5 requisitos do cliente foram atendidos e verificados.
+
+<b> Dificuldades </b>
+- Organização das informações coletadas
 
 <hr>
 
