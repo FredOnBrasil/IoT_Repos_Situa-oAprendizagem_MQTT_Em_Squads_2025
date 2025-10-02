@@ -41,7 +41,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <b> Dificuldades </b>
 - Montagem e ligação dos sensores a protoboard/arduino sendo posição correta de conexão do sensor
-- 
+
 
 <h3 align="center"> Montagem Protótipo </h3>
 
@@ -68,8 +68,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Publicação de Dados:</b> Estruturar os dados lidos em uma mensagem MQTT e publicá-los nos tópicos definidos (Squad 3). Recomenda-se um tópico por grandeza ou um tópico único com payload estruturado (JSON).
 - <b>Tratamento de Erros:</b> Implementar a lógica de reconexão automática ao Broker e o tratamento de falhas na leitura do Arduino.
 
+
 <b> Dificuldades </b>
-- O sensor de temperatura
+- importação de plugins e bibliotecas para fazer o código em outros computadores
 
 
 
@@ -87,7 +88,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Testes de Infraestrutura:</b> Realizar testes de carga e latência para garantir a estabilidade do Broker.
 
 <b> Dificuldades </b>
-- O sensor de temperatura
+- montagem de portas para a criação dos usuários e senhas, usadas para especificação dos tópicos abordados 
 
 <h3 align="center"> Comunicação MQTT </h3>
 
