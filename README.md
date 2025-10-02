@@ -259,6 +259,11 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h3 align="center"> Squad 1 </h3>
 
 <h3 align="center"> Squad 2 </h3>
+
 <h3 align="center"> Squad 3 </h3>
+
 <h3 align="center"> Squad 4 </h3>
+
 <h3 align="center"> Squad 5 </h3>
+
+<h3 align="center"> Conclusão Geral </h3>
