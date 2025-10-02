@@ -42,6 +42,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <b> Dificuldades </b>
 - Montagem e ligação dos sensores a protoboard/arduino sendo posição correta de conexão do sensor
 
+<h3 align="center"> Esquema de Montagem do Aduino </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%200.jpg" height="600" width="600"/> </p>
 
 <h3 align="center"> Montagem Protótipo </h3>
 
