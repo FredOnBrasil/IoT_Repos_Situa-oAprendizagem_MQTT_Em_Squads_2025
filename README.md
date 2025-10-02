@@ -36,6 +36,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Firmware do Arduino:</b> Desenvolver o código (Sketch) para o Arduino que faça a leitura das 5 grandezas de forma contínua e confiável.
 - <b>Comunicação de Saída:</b> Implementar a lógica para formatar os dados e enviá-los de forma serial ou via rede (Wi-Fi/Ethernet) para a próxima camada (o Publicador).
 
+<b> Dificuldades </b>
+- O sensor de temperatura
+
 <h3 align="center"> Montagem Protótipo </h3>
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%201.jpg" height="500" width="500"/> </p>
@@ -46,6 +49,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%203.jpg"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%204.jpg"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%201/S1%205.jpg"/> </p>
+
+
 
 <h2> Squad 2: Publicador WPF (Publisher) </h2>
 
@@ -58,6 +63,11 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Protocolo MQTT:</b> Integrar e configurar uma biblioteca MQTT Client (ex: M2Mqtt, MQTTnet) na aplicação Publicadora.
 - <b>Publicação de Dados:</b> Estruturar os dados lidos em uma mensagem MQTT e publicá-los nos tópicos definidos (Squad 3). Recomenda-se um tópico por grandeza ou um tópico único com payload estruturado (JSON).
 - <b>Tratamento de Erros:</b> Implementar a lógica de reconexão automática ao Broker e o tratamento de falhas na leitura do Arduino.
+
+<b> Dificuldades </b>
+- O sensor de temperatura
+
+
 
 <h2> Squad 3: Broker & Infraestrutura </h2>
 
@@ -72,10 +82,15 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Segurança:</b> Implementar segurança básica (se necessário), como autenticação por usuário/senha e/ou certificados (TLS/SSL) para conexão ao Broker.
 - <b>Testes de Infraestrutura:</b> Realizar testes de carga e latência para garantir a estabilidade do Broker.
 
+<b> Dificuldades </b>
+- O sensor de temperatura
+
 <h3 align="center"> Comunicação MQTT </h3>
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%203/S3%201.jpg"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%203/S3%202.jpg"/> </p>
+
+
 
 <h2> Squad 4: Aplicação Cliente (Subscriber) </h2>
 
@@ -97,6 +112,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%203.jpg"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%204.jpg"/> </p>
 
+
+
 <h2> Squad 5: Documentação & Testes </h2>
 
 <p align="justify">
@@ -111,6 +128,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Gerenciamento de Requisitos:</b> Manter a lista de requisitos atualizada e garantir que todos os 5 requisitos do cliente foram atendidos e verificados.
 
 <hr>
+
+
 
 <h2 align="center"> Sensores Utilizados </h2>
 
