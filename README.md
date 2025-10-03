@@ -154,12 +154,24 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Visualização em Tempo Real:</b> Desenvolver os componentes visuais que exibem as 5 grandezas e atualizam o valor automaticamente ao receber uma nova mensagem.
 - <b>Indicadores de Status:</b> Incluir indicadores visuais para o status da conexão com o Broker (online/offline).
 
+<h3 align="center"> Interface WPF Subscriber </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%200.png" width="990"/> </p>
+
+<h3 align="center"> Front End Subscriber </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%201%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%202%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%203%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%204%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%205%20Front.png" width="990"/> </p>
+
 <h3 align="center"> Back End Subscriber </h3>
 
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%201.jpg" width="990"/> </p>
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%202.jpg" width="990"/> </p>
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%203.jpg" width="990"/> </p>
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%204.jpg" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%206%20Back.jpg" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%207%20Back.jpg" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%208%20Back.jpg" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%209%20Back.jpg" width="990"/> </p>
 
 <b> Dificuldades </b>
 - Recebimento dos dados para andamento do projeto.
