@@ -73,7 +73,41 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Interface WPF Publisher </h3>
 
-<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%201.jpeg" width="990"/> </p>
+<p align="center"> 
+  Idealização da primeira interface:
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2001.jpg"/> 
+</p>
+
+<p align="center"> 
+  Segunda interface mais intuitiva:
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2002.jpg"/>
+</p>
+
+<p align="center"> 
+  Tela com erro o a ser solucionado: <br>
+  Havia um erro onde todos os dados estavam chegando no mesmo lugar, o que impedia a exibição correta em seus respectivos lugares.
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2003.jpg" width="921"/> 
+</p>
+
+<p align="center">
+  Interface atual após correção dos erros.
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2004.jpeg" width="921"/>
+</p>
+
+<h3 align="center"> Front End </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2005%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2006%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2007%20Front.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2008%20Front.png" width="990"/> </p>
+
+<h3 align="center"> Back End </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2009%20Back.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2010%20Back.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2011%20Back.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2012%20Back.png" width="990"/> </p>
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2013%20Back.png" width="990"/> </p>
 
 <b> Dificuldades: </b>
 - Importação de plugins e bibliotecas para fazer o código em outros computadores
