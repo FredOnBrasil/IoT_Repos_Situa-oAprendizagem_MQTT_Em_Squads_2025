@@ -75,8 +75,10 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%201.jpeg" width="990"/> </p>
 
-<b> Dificuldades </b>
+<b> Dificuldades: </b>
 - Importação de plugins e bibliotecas para fazer o código em outros computadores
+- Alto volume de alteração no código devido a mudança de especificações do real funcionamento do WPF
+- Complexidade no envio dos tópicos dos sensores de forma individual ao Broker
 
 
 
