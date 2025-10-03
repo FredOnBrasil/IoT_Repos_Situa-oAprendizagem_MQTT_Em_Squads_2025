@@ -71,6 +71,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Publicação de Dados:</b> Estruturar os dados lidos em uma mensagem MQTT e publicá-los nos tópicos definidos (Squad 3). Recomenda-se um tópico por grandeza ou um tópico único com payload estruturado (JSON).
 - <b>Tratamento de Erros:</b> Implementar a lógica de reconexão automática ao Broker e o tratamento de falhas na leitura do Arduino.
 
+<h3 align="center"> Interface WPF Publisher </h3>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%201.jpeg" width="990"/> </p>
 
 <b> Dificuldades </b>
 - Importação de plugins e bibliotecas para fazer o código em outros computadores
