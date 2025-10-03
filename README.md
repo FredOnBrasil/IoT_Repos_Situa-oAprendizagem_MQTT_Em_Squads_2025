@@ -94,14 +94,14 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2004.jpeg" width="921"/>
 </p>
 
-<h3 align="center"> Front End </h3>
+<h3 align="center"> Front End Publisher </h3>
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2005%20Front.png" width="990"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2006%20Front.png" width="990"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2007%20Front.png" width="990"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2008%20Front.png" width="990"/> </p>
 
-<h3 align="center"> Back End </h3>
+<h3 align="center"> Back End Publisher </h3>
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2009%20Back.png" width="990"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2010%20Back.png" width="990"/> </p>
@@ -154,7 +154,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - <b>Visualização em Tempo Real:</b> Desenvolver os componentes visuais que exibem as 5 grandezas e atualizam o valor automaticamente ao receber uma nova mensagem.
 - <b>Indicadores de Status:</b> Incluir indicadores visuais para o status da conexão com o Broker (online/offline).
 
-<h3 align="center"> Código Cliente (Subscriber) </h3>
+<h3 align="center"> Back End Subscriber </h3>
 
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%201.jpg" width="990"/> </p>
 <p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%204/S4%202.jpg" width="990"/> </p>
